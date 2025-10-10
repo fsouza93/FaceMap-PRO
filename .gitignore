@@ -1,0 +1,20 @@
+# Python / ambiente
+__pycache__/
+*.pyc
+.venv/
+.env
+*.env
+
+# VS Code / SO
+.vscode/
+.DS_Store
+
+# Dados gerados em runtime
+db_faces.json
+library.db
+
+# Notebooks/aux
+*.ipynb_checkpoints/
+
+# Modelos grandes (caso use LFS, ver passo 3)
+# models/*.onnx
