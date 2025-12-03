@@ -52,7 +52,7 @@ ENROLL_SAMPLES = 12
 ENROLL_TIMEOUT = 20.0
 
 # Espera adicional após coleta p/ confirmação no app
-CONFIRM_WAIT_MAX  = 20.0   # segundos
+CONFIRM_WAIT_MAX  = 30.0   # segundos
 CONFIRM_WAIT_STEP = 0.6    # intervalo de polling
 
 # FaceMesh MediaPipe
